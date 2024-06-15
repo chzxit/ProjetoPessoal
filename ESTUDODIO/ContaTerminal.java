@@ -7,9 +7,9 @@ public class ContaTerminal{
 
         //TODO:Exibir as mensagens paras os nossos usuarios
 
-        //TODO:obter pelo scanner os valores digitados pelo terminal 
+        //TODO:obter pelo scanner os valores digitados no terminal 
 
-        //TODO:Exirbir a menssgem final
+        //TODO:Exibir a menssagem final
 
     }
 }
