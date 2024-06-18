@@ -31,6 +31,7 @@ public class Contador {
         }
        
 		//realizar o for para imprimir os números com base na variável contagem
+        //leitura do for: int i e igual a parametro um. se parametro um for menor que o parametro 2 i++ signifca q o programa vai fazer oq deve
 		for (int i = parametroUm; i < parametroDois; i++) {
            System.out.println("Imprimindo o número: " + i);
         }
